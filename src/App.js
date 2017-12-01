@@ -8,7 +8,13 @@ class App extends Component {
 
     return (
       <div>
-        
+        Picture:
+        <input />
+
+        Name:
+        <input />
+
+        <button>Add Friend</button>
       </div>
     );
   }
