@@ -3,7 +3,12 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
-  render() {
+  constructor(){
+    super()
+    this.state = {
+
+    }
+  }  render() {
   
 
     return (
